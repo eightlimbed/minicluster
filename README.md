@@ -1,6 +1,6 @@
 # minicluster
 
-This repo contains code to spin up a 3-node cluster of virtual machines on MacOS.
+This repo contains code to spin up a 3-node cluster of virtual ubuntu linux machines on MacOS.
 
 ### Requirements
 * Virtualbox
